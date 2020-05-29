@@ -1,0 +1,19 @@
+div {
+    color: chocolate;
+}
+h2 {
+    color: black;
+    background-color: burlywood;
+    border: 1px solid saddlebrown;
+}
+h2:hover {
+    border: 3px solid saddlebrown;
+}
+input {
+    color: black;
+    background-color: burlywood;
+    border: 1px solid saddlebrown;
+}
+input:hover {
+    background-color: #de9437;
+}
